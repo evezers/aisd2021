@@ -1,0 +1,3 @@
+/run/media/evezers/data/CLionProjects/lab1_28/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/run/media/evezers/data/CLionProjects/lab1_28/cmake-build-debug/CMakeFiles/edit_cache.dir
+/run/media/evezers/data/CLionProjects/lab1_28/cmake-build-debug/CMakeFiles/lab1_28.dir

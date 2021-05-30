@@ -1,0 +1,4 @@
+/home/evezers/CLionProjects/lab2_16/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/evezers/CLionProjects/lab2_16/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/evezers/CLionProjects/lab2_16/cmake-build-debug/CMakeFiles/lab2_cycle.dir
+/home/evezers/CLionProjects/lab2_16/cmake-build-debug/CMakeFiles/lab2_vector.dir
